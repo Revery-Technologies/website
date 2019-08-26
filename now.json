@@ -1,0 +1,9 @@
+{
+  "name": "Revery Website",
+  "alias": ["revery", "revery-technologies", "embrace", "embrace-technologies"],
+  "version": 2,
+  "builds": [{ "src": "next.config.js", "use": "@now/next" }],
+  "github": {
+    "silent": true
+  }
+}

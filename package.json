@@ -31,6 +31,6 @@
     "styled-components": "^4.3.2"
   },
   "devDependencies": {
-    "now": "^16.1.2"
+    "now": "^16.2.0"
   }
 }

@@ -3512,10 +3512,10 @@ next-page-transitions@^1.0.0-beta.2:
     prop-types "^15.6.1"
     react-transition-group "^2.3.1"
 
-next-seo@^1.11.2:
-  version "1.11.2"
-  resolved "https://registry.yarnpkg.com/next-seo/-/next-seo-1.11.2.tgz#e88d00442932e7c9695edcf48d4360d7acd4ac00"
-  integrity sha512-hsrX/s6ZqtVjPqo55Ys3x0m0+JekpzODq1DTpBSeIyVpWFrUGdeNN68OjSPlauy8UNoKQtabEgOmv40APw4FjA==
+next-seo@^3.4.0:
+  version "3.4.0"
+  resolved "https://registry.yarnpkg.com/next-seo/-/next-seo-3.4.0.tgz#3309f28f25d780c1f6ebfc191087a3b3d5b6d24a"
+  integrity sha512-zi1YUYeWmf6a7slkiI86z0rAQXYtwAdk0fxI31rxMEgxTqUkaGqylCp0c5GJJnlLg4ps5XbLe01XkJHjU2TuwA==
 
 next-server@8.0.1:
   version "8.0.1"
